@@ -1,5 +1,5 @@
 # react-native-animation-controller
-RN Animation Controller
+RN Animation Controller </br>
 created by Pratama Indra .R
 ## Installation
 
